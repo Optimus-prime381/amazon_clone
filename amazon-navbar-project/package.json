@@ -1,0 +1,23 @@
+{
+  "name": "amazon-navbar-project",
+  "version": "1.0.0",
+  "description": "A navigation bar for Amazon.com including a search bar and navigation icons.",
+  "main": "src/index.html",
+  "scripts": {
+    "start": "live-server src",
+    "build": "echo 'Build step not defined'",
+    "test": "echo 'Test step not defined'"
+  },
+  "keywords": [
+    "amazon",
+    "navbar",
+    "navigation",
+    "search"
+  ],
+  "author": "Your Name",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
